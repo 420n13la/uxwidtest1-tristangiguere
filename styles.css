@@ -1,0 +1,93 @@
+body{
+	font-family: Helvetica, sans-serif;
+	background-image:url("pattern.png");
+}
+
+dt{
+	font-weight: bold;
+}
+
+#wrapper{
+	width: 77%;
+	padding: 3%;
+	margin: auto;
+	margin-top: 33px;
+	margin-bottom: 33px;
+	background-color: whitesmoke;
+}
+
+#frame{
+	align-content: center;
+	height: 470px;
+}
+
+.photo{
+	height: 100%;
+	width: 100%;
+	background-image:url("cohort.png");
+	background-size: cover;
+}
+
+.legend{
+	color: #95484b;
+	font-weight: bold;
+	text-align: center;
+	background-color: white;
+	display: inline-block;
+	align-content: center;
+}
+
+.logo{
+	width: 11%;
+	padding-bottom: 30px;
+}
+
+header {
+	background-image: linear-gradient(to bottom, #95484b, #af595c, #6f3032);
+	padding: 9px;
+}
+
+nav{
+	margin-top: -15px;
+	text-align: center;
+	font-size: 130%;
+	align-content: center;
+	
+}
+
+footer{
+	padding-top: 1em;
+	padding-bottom: 1em;
+	text-align: center;
+}
+
+:link {
+	text-decoration: none;
+	border: 3px white;
+	background-color: #95484b;
+	color: white;
+	padding: 0.2em;
+}
+
+a:link {
+	text-decoration: none;
+	border: 3px white;
+	background-color: #95484b;
+	color: white;
+	padding: 0.2em;	
+
+}
+
+a:visited {
+	text-decoration: none;
+	border: 13px white;
+	background-color: #95484b;
+	color: white;
+	padding: 0.2em;	
+
+}
+
+
+em {
+	color: deeppink;
+}
